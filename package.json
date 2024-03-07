@@ -1,6 +1,6 @@
 {
-  "name": "heartbleeder",
-  "version": "1.2.0",
+  "name": "go-thrust",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/whymesay/heartbleeder"
+    "url": "https://github.com/whymesay/go-thrust"
   },
   "keywords": [
     "react",
@@ -29,7 +29,7 @@
   "author": "whymesay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whymesay/heartbleeder/issues"
+    "url": "https://github.com/whymesay/go-thrust/issues"
   },
   "files": [
     "dist",
@@ -77,7 +77,8 @@
     "hexo-compose-util-t": "1.0.0",
     "proxy_pool_util_tea": "1.0.0",
     "adsl_proxy": "1.0.0",
-    "tunnel_proxypool": "1.0.0"
+    "tunnel_proxypool": "1.0.0",
+    "heartbleeder": "1.0.0"
   },
-  "homepage": "https://github.com/whymesay/heartbleeder#README.md"
+  "homepage": "https://github.com/whymesay/go-thrust#README.md"
 }
